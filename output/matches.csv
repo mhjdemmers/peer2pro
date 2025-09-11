@@ -1,0 +1,101 @@
+Student,Student_niveau,Onderwerp,Mentor,Mentor_niveau,Mentor_onderwerpen,Match_score
+Micha Claesdr,Bachelor,Creative Digital Innovation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",4
+David Bronder,Associate,Design Science Research,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",5
+Tijs Strijker,Bachelor,Artificial Intelligence,Helena Pieters,PhD,"['Artificial Intelligence', 'Creative Digital Innovation']",4
+Niek Tillmanno,Associate,Software Architecture,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",5
+Aiden Kathagen,Bachelor,Data Science,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",4
+Inaya Verkade,Bachelor,Business Change and Innovation,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",4
+Tim Winters,Bachelor,Data Visualisation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",4
+Emma van Kuijc,Associate,Ethical Hacking,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",5
+Kyara van Lucel,Associate,Data Visualisation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",5
+Nick Kolster,Bachelor,Design Science Research,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",4
+Niek Krabbe,Associate,Data Science,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",5
+Noortje Kuijpers,Bachelor,Business Process Analytics,Jasmijn van Dongen,PhD,"['Design Science Research', 'Creative Digital Innovation', 'Business Process Analytics']",4
+Bram Marceron,Associate,Data Visualisation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",5
+Julia Lommert,Bachelor,Data Visualisation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",4
+Fleur Groenestein,Bachelor,Business Change and Innovation,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",4
+Ayoub van der Velden,Bachelor,Ethical Hacking,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",4
+Joris van Asten,Associate,Ethical Hacking,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",5
+Bryan Maas,Associate,Artificial Intelligence,Helena Pieters,PhD,"['Artificial Intelligence', 'Creative Digital Innovation']",5
+Hamza Karels,Bachelor,Data Science,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",4
+Dewi Houdijk,Bachelor,Ethical Hacking,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",4
+Ivan van Bentheim,Bachelor,Ethical Hacking,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",4
+Oscar van de Brink,Bachelor,Ethical Hacking,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",4
+Zoë Chrodtrud,Associate,Data Visualisation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",5
+Frederique Cadefau,Associate,Software Architecture,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",5
+Amin de Lange,Associate,Business Process Analytics,Jasmijn van Dongen,PhD,"['Design Science Research', 'Creative Digital Innovation', 'Business Process Analytics']",5
+Nynke Verbeeck,Bachelor,Data Visualisation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",4
+Bjorn van Haspengouw Hesbaye,Associate,Creative Digital Innovation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",5
+Arthur Jacobi,Associate,Creative Digital Innovation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",5
+Sterre van Opper-Lotharingen,Bachelor,Software Architecture,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",4
+Daan Moenen,Bachelor,Data Visualisation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",4
+Dina van Maaren,Associate,Data Visualisation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",5
+Tijn Doorhof,Bachelor,Data Visualisation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",4
+Mika Van Bragt,Associate,Data Science,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",5
+Esmée Symons,Associate,Data Science,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",5
+Aaron van de Wal,Associate,Business Change and Innovation,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",5
+"Jelte Bourgondië, van",Bachelor,Artificial Intelligence,Helena Pieters,PhD,"['Artificial Intelligence', 'Creative Digital Innovation']",4
+Lisa de Swart,Bachelor,Software Architecture,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",4
+Dion van den Corput,Bachelor,Data Visualisation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",4
+Tyler Miltenburg,Bachelor,Business Process Analytics,Jasmijn van Dongen,PhD,"['Design Science Research', 'Creative Digital Innovation', 'Business Process Analytics']",4
+Rosalie Segerszoen,Associate,Data Science,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",5
+Jonathan Verbeek,Bachelor,Data Visualisation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",4
+Kate Demmendaal,Associate,Design Science Research,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",5
+Roos Schiffer,Associate,Business Process Analytics,Jasmijn van Dongen,PhD,"['Design Science Research', 'Creative Digital Innovation', 'Business Process Analytics']",5
+Sil Zaal,Associate,Business Change and Innovation,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",5
+Felix Olykan,Associate,Business Change and Innovation,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",5
+Puk ter Waarbeek,Associate,Business Process Analytics,Jasmijn van Dongen,PhD,"['Design Science Research', 'Creative Digital Innovation', 'Business Process Analytics']",5
+Jennifer van de Greef,Bachelor,Business Process Analytics,Jasmijn van Dongen,PhD,"['Design Science Research', 'Creative Digital Innovation', 'Business Process Analytics']",4
+Collin Huisman,Associate,Design Science Research,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",5
+Elif van Berkel,Associate,Creative Digital Innovation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",5
+Vigo Dubois,Associate,Data Visualisation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",5
+Tristan Kruns,Associate,Business Process Analytics,Jasmijn van Dongen,PhD,"['Design Science Research', 'Creative Digital Innovation', 'Business Process Analytics']",5
+Isabelle van de Elzas,Bachelor,Design Science Research,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",4
+Dean Holthuis,Associate,Business Change and Innovation,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",5
+Kyra Broeckx,Associate,Data Visualisation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",5
+Lois Remmers,Associate,Design Science Research,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",5
+Arie Charon,Bachelor,Business Process Analytics,Jasmijn van Dongen,PhD,"['Design Science Research', 'Creative Digital Innovation', 'Business Process Analytics']",4
+Eva Simonis,Bachelor,Software Architecture,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",4
+Megan Kleijse,Bachelor,Artificial Intelligence,Helena Pieters,PhD,"['Artificial Intelligence', 'Creative Digital Innovation']",4
+Aimée Dachgelt,Associate,Data Visualisation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",5
+Ravi van Bernicia,Associate,Ethical Hacking,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",5
+Lieve Mudden,Associate,Design Science Research,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",5
+Linn Mudden,Bachelor,Data Science,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",4
+Seth Groenestein,Associate,Business Process Analytics,Jasmijn van Dongen,PhD,"['Design Science Research', 'Creative Digital Innovation', 'Business Process Analytics']",5
+Maja Fortuyn,Bachelor,Design Science Research,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",4
+Ravi Cosman,Bachelor,Business Change and Innovation,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",4
+Roan Passchiers,Associate,Business Change and Innovation,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",5
+Seth Molegraaf,Associate,Business Change and Innovation,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",5
+Esther Scholten,Associate,Data Visualisation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",5
+Karlijn de Werd,Associate,Software Architecture,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",5
+Emily van der Stael de Jonge,Bachelor,Ethical Hacking,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",4
+Tessa Molen,Associate,Creative Digital Innovation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",5
+Emir Jorrisen,Bachelor,Artificial Intelligence,Helena Pieters,PhD,"['Artificial Intelligence', 'Creative Digital Innovation']",4
+Naud Kleijse,Associate,Software Architecture,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",5
+Mason van der Horst,Associate,Data Science,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",5
+Joëlle Sanders,Bachelor,Business Change and Innovation,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",4
+Yasmin van 't Houteveen,Associate,Data Visualisation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",5
+Joost Rutten,Bachelor,Artificial Intelligence,Helena Pieters,PhD,"['Artificial Intelligence', 'Creative Digital Innovation']",4
+Jip van Wessex,Associate,Data Visualisation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",5
+Lorenzo de Bont,Bachelor,Data Science,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",4
+Isis Verbeek,Associate,Ethical Hacking,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",5
+Timo Verbeek,Bachelor,Software Architecture,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",4
+Adriana Pieters van der Maes,Associate,Ethical Hacking,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",5
+Aylin Galijn,Bachelor,Creative Digital Innovation,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",4
+Jesper van Velzen,Associate,Business Change and Innovation,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",5
+Mart Kuijpers,Bachelor,Ethical Hacking,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",4
+Sep Molen,Associate,Data Science,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",5
+Floris ter Waarbeek,Bachelor,Software Architecture,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",4
+Leah van 't Riet,Bachelor,Ethical Hacking,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",4
+Abel van Metz,Associate,Design Science Research,Ryan van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",5
+Thijmen Saxo,Associate,Artificial Intelligence,Helena Pieters,PhD,"['Artificial Intelligence', 'Creative Digital Innovation']",5
+Jacob van den Henst,Bachelor,Data Science,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",4
+Damian Gnodde,Bachelor,Ethical Hacking,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",4
+Elizabeth van Kuijc,Bachelor,Ethical Hacking,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",4
+Morris Galenzone,Associate,Data Science,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",5
+Floor Merkx,Bachelor,Artificial Intelligence,Helena Pieters,PhD,"['Artificial Intelligence', 'Creative Digital Innovation']",4
+Fay Shupe,Bachelor,Ethical Hacking,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",4
+Marijn Ehlert,Associate,Ethical Hacking,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",5
+Kyano de Bruin,Bachelor,Software Architecture,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",4
+Mohamed van Luxemburg,Associate,Business Change and Innovation,Dana van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",5
+Milou Vertoor,Bachelor,Data Science,Pippa Koret,PhD,"['Software Architecture', 'Data Science']",4
