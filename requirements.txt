@@ -3,6 +3,6 @@ numpy
 seaborn
 scikit-learn
 
-# torch
+pytorch
 torchvision
 pandas
