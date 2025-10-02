@@ -1,101 +1,101 @@
-Voornaam,Achternaam,Opleidingsniveau,Onderwerpen
-Xavi,van Wickerode,Master,"['Ethical Hacking', 'Data Visualisation', 'Software Architecture', 'Business Process Analytics']"
-Linde,Schotte,Bachelor,"['Software Architecture', 'Artificial Intelligence', 'Business Process Analytics', 'Business Change and Innovation']"
-Joëlle,Bresé,Bachelor,"['Creative Digital Innovation', 'Data Science', 'Artificial Intelligence', 'Ethical Hacking']"
-Aaliyah,van Beaumont,Master,"['Business Change and Innovation', 'Artificial Intelligence', 'Data Science', 'Ethical Hacking']"
-Willem,Mudden,Bachelor,"['Software Architecture', 'Artificial Intelligence', 'Business Process Analytics', 'Design Science Research']"
-Valentijn,Scharroo,Master,"['Ethical Hacking', 'Artificial Intelligence']"
-Nout,Brumleve,Master,"['Data Visualisation', 'Business Change and Innovation', 'Creative Digital Innovation', 'Business Process Analytics']"
-Ryan,van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']"
-Luke,Mosley,Bachelor,"['Data Science', 'Artificial Intelligence', 'Design Science Research']"
-Dana,van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']"
-Charlotte,Pieters,Bachelor,"['Data Science', 'Design Science Research', 'Data Visualisation', 'Ethical Hacking']"
-Pippa,Koret,PhD,"['Software Architecture', 'Data Science']"
-Nick,van der Meer,Master,"['Business Change and Innovation', 'Data Science']"
-Amber,van der Avoirt,Bachelor,"['Software Architecture', 'Business Process Analytics', 'Creative Digital Innovation']"
-Louise,Horrocks,Bachelor,"['Software Architecture', 'Business Change and Innovation', 'Data Visualisation', 'Ethical Hacking']"
-Thijs,van Waas,PhD,"['Software Architecture', 'Data Science', 'Business Change and Innovation']"
-Lucy,Hulskes,Bachelor,"['Design Science Research', 'Data Visualisation', 'Software Architecture', 'Business Change and Innovation']"
-Helena,Pieters,PhD,"['Artificial Intelligence', 'Creative Digital Innovation']"
-Jasmijn,van Dongen,PhD,"['Design Science Research', 'Creative Digital Innovation', 'Business Process Analytics']"
-Mick,Verhoeven,Master,"['Ethical Hacking', 'Creative Digital Innovation']"
-Amir,Cammel,PhD,"['Ethical Hacking', 'Software Architecture']"
-Anne,Köster,Master,"['Business Process Analytics', 'Design Science Research', 'Ethical Hacking']"
-Olivier,Sarneel,PhD,"['Data Visualisation', 'Software Architecture']"
-Chris,van Landen,PhD,"['Data Visualisation', 'Ethical Hacking']"
-Eliza,Janse,Master,"['Software Architecture', 'Ethical Hacking', 'Business Process Analytics']"
-Hidde,Rehorst,Master,"['Software Architecture', 'Data Science', 'Business Process Analytics']"
-Amélie,Kort,Master,"['Artificial Intelligence', 'Software Architecture', 'Business Process Analytics', 'Business Change and Innovation']"
-Kai,Opmans,Bachelor,"['Data Visualisation', 'Creative Digital Innovation']"
-Stef,van Beieren,Bachelor,"['Creative Digital Innovation', 'Business Change and Innovation']"
-Stijn,Matthews,PhD,"['Data Science', 'Business Process Analytics']"
-Gijs,van Kuijc,Master,"['Creative Digital Innovation', 'Software Architecture', 'Artificial Intelligence', 'Data Visualisation']"
-Veerle,Aertsz,Bachelor,"['Data Visualisation', 'Data Science', 'Business Change and Innovation']"
-Maud,Garret,PhD,"['Software Architecture', 'Data Visualisation']"
-Amelia,van den Hoek,Master,"['Business Process Analytics', 'Artificial Intelligence', 'Software Architecture']"
-Amelia,van der Strigt,Bachelor,"['Creative Digital Innovation', 'Business Change and Innovation', 'Software Architecture', 'Artificial Intelligence']"
-Nora,Köster,Master,"['Software Architecture', 'Creative Digital Innovation']"
-Maryam,van der Veen,PhD,"['Data Science', 'Business Change and Innovation', 'Ethical Hacking']"
-Bart,van Haspengouw,Master,"['Artificial Intelligence', 'Ethical Hacking', 'Software Architecture', 'Creative Digital Innovation']"
-Matthijs,Verbeek,PhD,"['Ethical Hacking', 'Artificial Intelligence']"
-Noëlle,Jorlink,Master,"['Data Science', 'Creative Digital Innovation']"
-Aya,Horrocks,Bachelor,"['Artificial Intelligence', 'Ethical Hacking']"
-Ceylin,Beourgeois,Bachelor,"['Ethical Hacking', 'Artificial Intelligence', 'Software Architecture', 'Design Science Research']"
-Jill,van de Velden,PhD,"['Software Architecture', 'Business Process Analytics', 'Creative Digital Innovation']"
-Hailey,Coenen,PhD,"['Software Architecture', 'Data Visualisation', 'Creative Digital Innovation', 'Business Change and Innovation']"
-Lize,van der Schuijt,Bachelor,"['Data Science', 'Software Architecture', 'Design Science Research']"
-Chloé,van Oostendorp,PhD,"['Business Change and Innovation', 'Artificial Intelligence', 'Design Science Research']"
-Loes,Ramaker,Bachelor,"['Business Process Analytics', 'Creative Digital Innovation', 'Ethical Hacking']"
-Renske,Jonker,Bachelor,"['Creative Digital Innovation', 'Data Visualisation', 'Data Science']"
-Lois,van Baalen,Bachelor,"['Business Process Analytics', 'Software Architecture', 'Business Change and Innovation']"
-Jayda,Mulders,Bachelor,"['Ethical Hacking', 'Design Science Research', 'Data Visualisation', 'Data Science']"
-Dewi,Langevoort,PhD,"['Data Visualisation', 'Data Science']"
-Maarten,Walsteijn,Master,"['Software Architecture', 'Business Process Analytics']"
-Jason,Driessen,Bachelor,"['Design Science Research', 'Software Architecture', 'Ethical Hacking']"
-Alicia,de Vries,Master,"['Design Science Research', 'Business Change and Innovation']"
-Mats,de Vroege,Master,"['Ethical Hacking', 'Business Change and Innovation']"
-Jens,Lieshout,Master,"['Business Change and Innovation', 'Ethical Hacking']"
-Vigo,van 't Wel,Bachelor,"['Artificial Intelligence', 'Software Architecture']"
-Noah,Niermann,Master,"['Design Science Research', 'Creative Digital Innovation', 'Business Change and Innovation']"
-Marijn,Bertho,PhD,"['Ethical Hacking', 'Design Science Research', 'Data Visualisation', 'Business Process Analytics']"
-Abel,de Gratie,PhD,"['Artificial Intelligence', 'Software Architecture']"
-Gijs,Krabbe,PhD,"['Artificial Intelligence', 'Design Science Research', 'Creative Digital Innovation', 'Ethical Hacking']"
-Lot,Bave,Master,"['Data Visualisation', 'Business Process Analytics', 'Software Architecture', 'Artificial Intelligence']"
-Senna,van den Eerenbeemt,Master,"['Business Process Analytics', 'Artificial Intelligence', 'Design Science Research']"
-Jip,Heribert van Laon,Master,"['Creative Digital Innovation', 'Artificial Intelligence']"
-Isabel,van Liendert,Master,"['Creative Digital Innovation', 'Business Change and Innovation', 'Data Science']"
-Stella,Wolfswinkel,Master,"['Ethical Hacking', 'Software Architecture', 'Data Science']"
-Kick,van Limburg,Bachelor,"['Business Change and Innovation', 'Data Visualisation']"
-Benjamin,Versluijs,Master,"['Business Change and Innovation', 'Data Science', 'Data Visualisation']"
-Beau,van Spreuwel,Master,"['Data Visualisation', 'Software Architecture']"
-Luka,Sanders,PhD,"['Business Process Analytics', 'Business Change and Innovation', 'Data Science']"
-Nikki,van de Wiel,PhD,"['Data Science', 'Creative Digital Innovation', 'Business Process Analytics', 'Design Science Research']"
-Isa,Maas,Master,"['Creative Digital Innovation', 'Design Science Research', 'Business Change and Innovation']"
-Maxim,"West-Francië, van",Bachelor,"['Ethical Hacking', 'Software Architecture']"
-Hugo,Stoffel,PhD,"['Data Visualisation', 'Artificial Intelligence', 'Data Science', 'Creative Digital Innovation']"
-Vince,Geertsen,PhD,"['Artificial Intelligence', 'Software Architecture', 'Design Science Research']"
-Mick,Verschut,Bachelor,"['Creative Digital Innovation', 'Data Visualisation', 'Business Process Analytics', 'Design Science Research']"
-Seth,de Vos,Master,"['Business Change and Innovation', 'Creative Digital Innovation']"
-Jake,Adelaar,Master,"['Design Science Research', 'Data Visualisation']"
-Roos,van Ginkel,Master,"['Data Science', 'Business Process Analytics', 'Software Architecture']"
-Tobias,Gerritsen,Bachelor,"['Design Science Research', 'Business Change and Innovation', 'Artificial Intelligence']"
-Amélie,Garret,PhD,"['Artificial Intelligence', 'Creative Digital Innovation']"
-Chloë,van der Klein,Master,"['Creative Digital Innovation', 'Artificial Intelligence']"
-Sjoerd,Carnotte,Bachelor,"['Data Science', 'Data Visualisation', 'Creative Digital Innovation', 'Business Change and Innovation']"
-Elif,Steinmeiern,Master,"['Business Process Analytics', 'Software Architecture', 'Ethical Hacking']"
-Niek,Pons,Master,"['Data Science', 'Design Science Research', 'Business Process Analytics', 'Creative Digital Innovation']"
-Linde,Hollander,PhD,"['Business Process Analytics', 'Business Change and Innovation']"
-Kevin,Osterhoudt,Master,"['Creative Digital Innovation', 'Design Science Research', 'Business Process Analytics', 'Business Change and Innovation']"
-Benjamin,van der Flaas,PhD,"['Artificial Intelligence', 'Creative Digital Innovation', 'Data Science']"
-Luna,le Gulcher,Master,"['Design Science Research', 'Ethical Hacking']"
-Quinty,van Enschot,PhD,"['Creative Digital Innovation', 'Software Architecture', 'Artificial Intelligence']"
-Tyler,Tamsma,PhD,"['Data Visualisation', 'Software Architecture']"
-Adriana,Schelvis,Master,"['Ethical Hacking', 'Creative Digital Innovation', 'Artificial Intelligence', 'Software Architecture']"
-Felix,van der Pol,Bachelor,"['Ethical Hacking', 'Software Architecture']"
-Livia,van Luyssel,Bachelor,"['Data Science', 'Design Science Research', 'Software Architecture', 'Artificial Intelligence']"
-Jill,Jans,Master,"['Software Architecture', 'Ethical Hacking', 'Creative Digital Innovation', 'Data Visualisation']"
-Ivan,den Teuling,Master,"['Creative Digital Innovation', 'Business Process Analytics', 'Data Visualisation', 'Data Science']"
-Loïs,Huijbrechts,Master,"['Creative Digital Innovation', 'Ethical Hacking', 'Data Visualisation', 'Data Science']"
-Myrthe,Rijks,PhD,"['Data Science', 'Artificial Intelligence', 'Software Architecture', 'Data Visualisation']"
-Yinthe,van Dagsburg,Master,"['Ethical Hacking', 'Artificial Intelligence']"
-Amin,de Vrome,Bachelor,"['Ethical Hacking', 'Data Science', 'Creative Digital Innovation', 'Business Process Analytics']"
+Voornaam,Achternaam,Opleidingsniveau,Onderwerpen,Max_Studenten
+Xavi,van Wickerode,Master,"['Ethical Hacking', 'Data Visualisation', 'Software Architecture', 'Business Process Analytics']",5
+Linde,Schotte,Bachelor,"['Software Architecture', 'Artificial Intelligence', 'Business Process Analytics', 'Business Change and Innovation']",3
+Joëlle,Bresé,Bachelor,"['Creative Digital Innovation', 'Data Science', 'Artificial Intelligence', 'Ethical Hacking']",2
+Aaliyah,van Beaumont,Master,"['Business Change and Innovation', 'Artificial Intelligence', 'Data Science', 'Ethical Hacking']",4
+Willem,Mudden,Bachelor,"['Software Architecture', 'Artificial Intelligence', 'Business Process Analytics', 'Design Science Research']",1
+Valentijn,Scharroo,Master,"['Ethical Hacking', 'Artificial Intelligence']",5
+Nout,Brumleve,Master,"['Data Visualisation', 'Business Change and Innovation', 'Creative Digital Innovation', 'Business Process Analytics']",1
+Ryan,van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",4
+Luke,Mosley,Bachelor,"['Data Science', 'Artificial Intelligence', 'Design Science Research']",5
+Dana,van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",4
+Charlotte,Pieters,Bachelor,"['Data Science', 'Design Science Research', 'Data Visualisation', 'Ethical Hacking']",5
+Pippa,Koret,PhD,"['Software Architecture', 'Data Science']",1
+Nick,van der Meer,Master,"['Business Change and Innovation', 'Data Science']",2
+Amber,van der Avoirt,Bachelor,"['Software Architecture', 'Business Process Analytics', 'Creative Digital Innovation']",4
+Louise,Horrocks,Bachelor,"['Software Architecture', 'Business Change and Innovation', 'Data Visualisation', 'Ethical Hacking']",4
+Thijs,van Waas,PhD,"['Software Architecture', 'Data Science', 'Business Change and Innovation']",4
+Lucy,Hulskes,Bachelor,"['Design Science Research', 'Data Visualisation', 'Software Architecture', 'Business Change and Innovation']",4
+Helena,Pieters,PhD,"['Artificial Intelligence', 'Creative Digital Innovation']",5
+Jasmijn,van Dongen,PhD,"['Design Science Research', 'Creative Digital Innovation', 'Business Process Analytics']",1
+Mick,Verhoeven,Master,"['Ethical Hacking', 'Creative Digital Innovation']",2
+Amir,Cammel,PhD,"['Ethical Hacking', 'Software Architecture']",2
+Anne,Köster,Master,"['Business Process Analytics', 'Design Science Research', 'Ethical Hacking']",4
+Olivier,Sarneel,PhD,"['Data Visualisation', 'Software Architecture']",3
+Chris,van Landen,PhD,"['Data Visualisation', 'Ethical Hacking']",3
+Eliza,Janse,Master,"['Software Architecture', 'Ethical Hacking', 'Business Process Analytics']",3
+Hidde,Rehorst,Master,"['Software Architecture', 'Data Science', 'Business Process Analytics']",3
+Amélie,Kort,Master,"['Artificial Intelligence', 'Software Architecture', 'Business Process Analytics', 'Business Change and Innovation']",3
+Kai,Opmans,Bachelor,"['Data Visualisation', 'Creative Digital Innovation']",1
+Stef,van Beieren,Bachelor,"['Creative Digital Innovation', 'Business Change and Innovation']",1
+Stijn,Matthews,PhD,"['Data Science', 'Business Process Analytics']",1
+Gijs,van Kuijc,Master,"['Creative Digital Innovation', 'Software Architecture', 'Artificial Intelligence', 'Data Visualisation']",1
+Veerle,Aertsz,Bachelor,"['Data Visualisation', 'Data Science', 'Business Change and Innovation']",1
+Maud,Garret,PhD,"['Software Architecture', 'Data Visualisation']",1
+Amelia,van den Hoek,Master,"['Business Process Analytics', 'Artificial Intelligence', 'Software Architecture']",3
+Amelia,van der Strigt,Bachelor,"['Creative Digital Innovation', 'Business Change and Innovation', 'Software Architecture', 'Artificial Intelligence']",1
+Nora,Köster,Master,"['Software Architecture', 'Creative Digital Innovation']",2
+Maryam,van der Veen,PhD,"['Data Science', 'Business Change and Innovation', 'Ethical Hacking']",5
+Bart,van Haspengouw,Master,"['Artificial Intelligence', 'Ethical Hacking', 'Software Architecture', 'Creative Digital Innovation']",1
+Matthijs,Verbeek,PhD,"['Ethical Hacking', 'Artificial Intelligence']",2
+Noëlle,Jorlink,Master,"['Data Science', 'Creative Digital Innovation']",5
+Aya,Horrocks,Bachelor,"['Artificial Intelligence', 'Ethical Hacking']",3
+Ceylin,Beourgeois,Bachelor,"['Ethical Hacking', 'Artificial Intelligence', 'Software Architecture', 'Design Science Research']",4
+Jill,van de Velden,PhD,"['Software Architecture', 'Business Process Analytics', 'Creative Digital Innovation']",4
+Hailey,Coenen,PhD,"['Software Architecture', 'Data Visualisation', 'Creative Digital Innovation', 'Business Change and Innovation']",4
+Lize,van der Schuijt,Bachelor,"['Data Science', 'Software Architecture', 'Design Science Research']",5
+Chloé,van Oostendorp,PhD,"['Business Change and Innovation', 'Artificial Intelligence', 'Design Science Research']",5
+Loes,Ramaker,Bachelor,"['Business Process Analytics', 'Creative Digital Innovation', 'Ethical Hacking']",4
+Renske,Jonker,Bachelor,"['Creative Digital Innovation', 'Data Visualisation', 'Data Science']",3
+Lois,van Baalen,Bachelor,"['Business Process Analytics', 'Software Architecture', 'Business Change and Innovation']",2
+Jayda,Mulders,Bachelor,"['Ethical Hacking', 'Design Science Research', 'Data Visualisation', 'Data Science']",4
+Dewi,Langevoort,PhD,"['Data Visualisation', 'Data Science']",3
+Maarten,Walsteijn,Master,"['Software Architecture', 'Business Process Analytics']",2
+Jason,Driessen,Bachelor,"['Design Science Research', 'Software Architecture', 'Ethical Hacking']",4
+Alicia,de Vries,Master,"['Design Science Research', 'Business Change and Innovation']",5
+Mats,de Vroege,Master,"['Ethical Hacking', 'Business Change and Innovation']",4
+Jens,Lieshout,Master,"['Business Change and Innovation', 'Ethical Hacking']",3
+Vigo,van 't Wel,Bachelor,"['Artificial Intelligence', 'Software Architecture']",4
+Noah,Niermann,Master,"['Design Science Research', 'Creative Digital Innovation', 'Business Change and Innovation']",4
+Marijn,Bertho,PhD,"['Ethical Hacking', 'Design Science Research', 'Data Visualisation', 'Business Process Analytics']",5
+Abel,de Gratie,PhD,"['Artificial Intelligence', 'Software Architecture']",1
+Gijs,Krabbe,PhD,"['Artificial Intelligence', 'Design Science Research', 'Creative Digital Innovation', 'Ethical Hacking']",4
+Lot,Bave,Master,"['Data Visualisation', 'Business Process Analytics', 'Software Architecture', 'Artificial Intelligence']",3
+Senna,van den Eerenbeemt,Master,"['Business Process Analytics', 'Artificial Intelligence', 'Design Science Research']",2
+Jip,Heribert van Laon,Master,"['Creative Digital Innovation', 'Artificial Intelligence']",5
+Isabel,van Liendert,Master,"['Creative Digital Innovation', 'Business Change and Innovation', 'Data Science']",1
+Stella,Wolfswinkel,Master,"['Ethical Hacking', 'Software Architecture', 'Data Science']",1
+Kick,van Limburg,Bachelor,"['Business Change and Innovation', 'Data Visualisation']",5
+Benjamin,Versluijs,Master,"['Business Change and Innovation', 'Data Science', 'Data Visualisation']",5
+Beau,van Spreuwel,Master,"['Data Visualisation', 'Software Architecture']",2
+Luka,Sanders,PhD,"['Business Process Analytics', 'Business Change and Innovation', 'Data Science']",3
+Nikki,van de Wiel,PhD,"['Data Science', 'Creative Digital Innovation', 'Business Process Analytics', 'Design Science Research']",3
+Isa,Maas,Master,"['Creative Digital Innovation', 'Design Science Research', 'Business Change and Innovation']",4
+Maxim,"West-Francië, van",Bachelor,"['Ethical Hacking', 'Software Architecture']",4
+Hugo,Stoffel,PhD,"['Data Visualisation', 'Artificial Intelligence', 'Data Science', 'Creative Digital Innovation']",3
+Vince,Geertsen,PhD,"['Artificial Intelligence', 'Software Architecture', 'Design Science Research']",5
+Mick,Verschut,Bachelor,"['Creative Digital Innovation', 'Data Visualisation', 'Business Process Analytics', 'Design Science Research']",3
+Seth,de Vos,Master,"['Business Change and Innovation', 'Creative Digital Innovation']",1
+Jake,Adelaar,Master,"['Design Science Research', 'Data Visualisation']",5
+Roos,van Ginkel,Master,"['Data Science', 'Business Process Analytics', 'Software Architecture']",4
+Tobias,Gerritsen,Bachelor,"['Design Science Research', 'Business Change and Innovation', 'Artificial Intelligence']",1
+Amélie,Garret,PhD,"['Artificial Intelligence', 'Creative Digital Innovation']",1
+Chloë,van der Klein,Master,"['Creative Digital Innovation', 'Artificial Intelligence']",4
+Sjoerd,Carnotte,Bachelor,"['Data Science', 'Data Visualisation', 'Creative Digital Innovation', 'Business Change and Innovation']",4
+Elif,Steinmeiern,Master,"['Business Process Analytics', 'Software Architecture', 'Ethical Hacking']",3
+Niek,Pons,Master,"['Data Science', 'Design Science Research', 'Business Process Analytics', 'Creative Digital Innovation']",2
+Linde,Hollander,PhD,"['Business Process Analytics', 'Business Change and Innovation']",1
+Kevin,Osterhoudt,Master,"['Creative Digital Innovation', 'Design Science Research', 'Business Process Analytics', 'Business Change and Innovation']",2
+Benjamin,van der Flaas,PhD,"['Artificial Intelligence', 'Creative Digital Innovation', 'Data Science']",3
+Luna,le Gulcher,Master,"['Design Science Research', 'Ethical Hacking']",3
+Quinty,van Enschot,PhD,"['Creative Digital Innovation', 'Software Architecture', 'Artificial Intelligence']",3
+Tyler,Tamsma,PhD,"['Data Visualisation', 'Software Architecture']",3
+Adriana,Schelvis,Master,"['Ethical Hacking', 'Creative Digital Innovation', 'Artificial Intelligence', 'Software Architecture']",1
+Felix,van der Pol,Bachelor,"['Ethical Hacking', 'Software Architecture']",4
+Livia,van Luyssel,Bachelor,"['Data Science', 'Design Science Research', 'Software Architecture', 'Artificial Intelligence']",5
+Jill,Jans,Master,"['Software Architecture', 'Ethical Hacking', 'Creative Digital Innovation', 'Data Visualisation']",2
+Ivan,den Teuling,Master,"['Creative Digital Innovation', 'Business Process Analytics', 'Data Visualisation', 'Data Science']",4
+Loïs,Huijbrechts,Master,"['Creative Digital Innovation', 'Ethical Hacking', 'Data Visualisation', 'Data Science']",5
+Myrthe,Rijks,PhD,"['Data Science', 'Artificial Intelligence', 'Software Architecture', 'Data Visualisation']",4
+Yinthe,van Dagsburg,Master,"['Ethical Hacking', 'Artificial Intelligence']",2
+Amin,de Vrome,Bachelor,"['Ethical Hacking', 'Data Science', 'Creative Digital Innovation', 'Business Process Analytics']",1
