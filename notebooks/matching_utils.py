@@ -15,8 +15,12 @@ def is_valid_match(match):
     student_subject = student['onderwerp']
     mentor_subjects = mentor['onderwerpen']
     valid_expertise = student_subject in mentor_subjects
+
+    student_availability = student['beschikbaarheid']
+    mentor_availability = mentor['beschikbaarheid']
+    valid_availability = any(day in mentor_availability for day in student_availability)
     
-    return valid_education and valid_expertise
+    return valid_education and valid_expertise and valid_availability
 
 def get_invalid_matches(matches):
     invalid_matches = []
