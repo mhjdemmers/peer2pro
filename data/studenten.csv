@@ -1,101 +1,101 @@
-Voornaam,Achternaam,Opleidingsniveau,Onderwerp
-Micha,Claesdr,Bachelor,Creative Digital Innovation
-David,Bronder,Associate,Design Science Research
-Tijs,Strijker,Bachelor,Artificial Intelligence
-Niek,Tillmanno,Associate,Software Architecture
-Aiden,Kathagen,Bachelor,Data Science
-Inaya,Verkade,Bachelor,Business Change and Innovation
-Tim,Winters,Bachelor,Data Visualisation
-Emma,van Kuijc,Associate,Ethical Hacking
-Kyara,van Lucel,Associate,Data Visualisation
-Nick,Kolster,Bachelor,Design Science Research
-Niek,Krabbe,Associate,Data Science
-Noortje,Kuijpers,Bachelor,Business Process Analytics
-Bram,Marceron,Associate,Data Visualisation
-Julia,Lommert,Bachelor,Data Visualisation
-Fleur,Groenestein,Bachelor,Business Change and Innovation
-Ayoub,van der Velden,Bachelor,Ethical Hacking
-Joris,van Asten,Associate,Ethical Hacking
-Bryan,Maas,Associate,Artificial Intelligence
-Hamza,Karels,Bachelor,Data Science
-Dewi,Houdijk,Bachelor,Ethical Hacking
-Ivan,van Bentheim,Bachelor,Ethical Hacking
-Oscar,van de Brink,Bachelor,Ethical Hacking
-Zoë,Chrodtrud,Associate,Data Visualisation
-Frederique,Cadefau,Associate,Software Architecture
-Amin,de Lange,Associate,Business Process Analytics
-Nynke,Verbeeck,Bachelor,Data Visualisation
-Bjorn,van Haspengouw Hesbaye,Associate,Creative Digital Innovation
-Arthur,Jacobi,Associate,Creative Digital Innovation
-Sterre,van Opper-Lotharingen,Bachelor,Software Architecture
-Daan,Moenen,Bachelor,Data Visualisation
-Dina,van Maaren,Associate,Data Visualisation
-Tijn,Doorhof,Bachelor,Data Visualisation
-Mika,Van Bragt,Associate,Data Science
-Esmée,Symons,Associate,Data Science
-Aaron,van de Wal,Associate,Business Change and Innovation
-Jelte,"Bourgondië, van",Bachelor,Artificial Intelligence
-Lisa,de Swart,Bachelor,Software Architecture
-Dion,van den Corput,Bachelor,Data Visualisation
-Tyler,Miltenburg,Bachelor,Business Process Analytics
-Rosalie,Segerszoen,Associate,Data Science
-Jonathan,Verbeek,Bachelor,Data Visualisation
-Kate,Demmendaal,Associate,Design Science Research
-Roos,Schiffer,Associate,Business Process Analytics
-Sil,Zaal,Associate,Business Change and Innovation
-Felix,Olykan,Associate,Business Change and Innovation
-Puk,ter Waarbeek,Associate,Business Process Analytics
-Jennifer,van de Greef,Bachelor,Business Process Analytics
-Collin,Huisman,Associate,Design Science Research
-Elif,van Berkel,Associate,Creative Digital Innovation
-Vigo,Dubois,Associate,Data Visualisation
-Tristan,Kruns,Associate,Business Process Analytics
-Isabelle,van de Elzas,Bachelor,Design Science Research
-Dean,Holthuis,Associate,Business Change and Innovation
-Kyra,Broeckx,Associate,Data Visualisation
-Lois,Remmers,Associate,Design Science Research
-Arie,Charon,Bachelor,Business Process Analytics
-Eva,Simonis,Bachelor,Software Architecture
-Megan,Kleijse,Bachelor,Artificial Intelligence
-Aimée,Dachgelt,Associate,Data Visualisation
-Ravi,van Bernicia,Associate,Ethical Hacking
-Lieve,Mudden,Associate,Design Science Research
-Linn,Mudden,Bachelor,Data Science
-Seth,Groenestein,Associate,Business Process Analytics
-Maja,Fortuyn,Bachelor,Design Science Research
-Ravi,Cosman,Bachelor,Business Change and Innovation
-Roan,Passchiers,Associate,Business Change and Innovation
-Seth,Molegraaf,Associate,Business Change and Innovation
-Esther,Scholten,Associate,Data Visualisation
-Karlijn,de Werd,Associate,Software Architecture
-Emily,van der Stael de Jonge,Bachelor,Ethical Hacking
-Tessa,Molen,Associate,Creative Digital Innovation
-Emir,Jorrisen,Bachelor,Artificial Intelligence
-Naud,Kleijse,Associate,Software Architecture
-Mason,van der Horst,Associate,Data Science
-Joëlle,Sanders,Bachelor,Business Change and Innovation
-Yasmin,van 't Houteveen,Associate,Data Visualisation
-Joost,Rutten,Bachelor,Artificial Intelligence
-Jip,van Wessex,Associate,Data Visualisation
-Lorenzo,de Bont,Bachelor,Data Science
-Isis,Verbeek,Associate,Ethical Hacking
-Timo,Verbeek,Bachelor,Software Architecture
-Adriana,Pieters van der Maes,Associate,Ethical Hacking
-Aylin,Galijn,Bachelor,Creative Digital Innovation
-Jesper,van Velzen,Associate,Business Change and Innovation
-Mart,Kuijpers,Bachelor,Ethical Hacking
-Sep,Molen,Associate,Data Science
-Floris,ter Waarbeek,Bachelor,Software Architecture
-Leah,van 't Riet,Bachelor,Ethical Hacking
-Abel,van Metz,Associate,Design Science Research
-Thijmen,Saxo,Associate,Artificial Intelligence
-Jacob,van den Henst,Bachelor,Data Science
-Damian,Gnodde,Bachelor,Ethical Hacking
-Elizabeth,van Kuijc,Bachelor,Ethical Hacking
-Morris,Galenzone,Associate,Data Science
-Floor,Merkx,Bachelor,Artificial Intelligence
-Fay,Shupe,Bachelor,Ethical Hacking
-Marijn,Ehlert,Associate,Ethical Hacking
-Kyano,de Bruin,Bachelor,Software Architecture
-Mohamed,van Luxemburg,Associate,Business Change and Innovation
-Milou,Vertoor,Bachelor,Data Science
+Voornaam,Achternaam,Opleidingsniveau,Onderwerp,Beschikbaarheid
+Micha,Claesdr,Bachelor,Creative Digital Innovation,"['Maandag', 'Woensdag', 'Donderdag', 'Zaterdag']"
+David,Bronder,Associate,Design Science Research,['Zaterdag']
+Tijs,Strijker,Bachelor,Artificial Intelligence,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag']"
+Niek,Tillmanno,Associate,Software Architecture,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Aiden,Kathagen,Bachelor,Data Science,['Maandag']
+Inaya,Verkade,Bachelor,Business Change and Innovation,"['Maandag', 'Woensdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Tim,Winters,Bachelor,Data Visualisation,"['Dinsdag', 'Woensdag', 'Vrijdag']"
+Emma,van Kuijc,Associate,Ethical Hacking,"['Vrijdag', 'Zaterdag', 'Zondag']"
+Kyara,van Lucel,Associate,Data Visualisation,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Nick,Kolster,Bachelor,Design Science Research,"['Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Niek,Krabbe,Associate,Data Science,['Donderdag']
+Noortje,Kuijpers,Bachelor,Business Process Analytics,"['Dinsdag', 'Woensdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Bram,Marceron,Associate,Data Visualisation,['Donderdag']
+Julia,Lommert,Bachelor,Data Visualisation,['Zaterdag']
+Fleur,Groenestein,Bachelor,Business Change and Innovation,"['Donderdag', 'Vrijdag']"
+Ayoub,van der Velden,Bachelor,Ethical Hacking,['Zaterdag']
+Joris,van Asten,Associate,Ethical Hacking,['Zondag']
+Bryan,Maas,Associate,Artificial Intelligence,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag']"
+Hamza,Karels,Bachelor,Data Science,"['Maandag', 'Dinsdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Dewi,Houdijk,Bachelor,Ethical Hacking,"['Maandag', 'Dinsdag', 'Woensdag', 'Vrijdag', 'Zondag']"
+Ivan,van Bentheim,Bachelor,Ethical Hacking,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Oscar,van de Brink,Bachelor,Ethical Hacking,['Woensdag']
+Zoë,Chrodtrud,Associate,Data Visualisation,"['Maandag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Frederique,Cadefau,Associate,Software Architecture,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag']"
+Amin,de Lange,Associate,Business Process Analytics,"['Zaterdag', 'Zondag']"
+Nynke,Verbeeck,Bachelor,Data Visualisation,"['Dinsdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Bjorn,van Haspengouw Hesbaye,Associate,Creative Digital Innovation,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Arthur,Jacobi,Associate,Creative Digital Innovation,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Sterre,van Opper-Lotharingen,Bachelor,Software Architecture,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Daan,Moenen,Bachelor,Data Visualisation,"['Dinsdag', 'Woensdag']"
+Dina,van Maaren,Associate,Data Visualisation,"['Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Tijn,Doorhof,Bachelor,Data Visualisation,"['Maandag', 'Dinsdag', 'Donderdag', 'Vrijdag', 'Zaterdag']"
+Mika,Van Bragt,Associate,Data Science,"['Maandag', 'Woensdag', 'Donderdag', 'Zaterdag', 'Zondag']"
+Esmée,Symons,Associate,Data Science,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Aaron,van de Wal,Associate,Business Change and Innovation,"['Maandag', 'Dinsdag', 'Vrijdag']"
+Jelte,"Bourgondië, van",Bachelor,Artificial Intelligence,"['Maandag', 'Donderdag', 'Zaterdag', 'Zondag']"
+Lisa,de Swart,Bachelor,Software Architecture,"['Dinsdag', 'Donderdag', 'Zaterdag', 'Zondag']"
+Dion,van den Corput,Bachelor,Data Visualisation,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Tyler,Miltenburg,Bachelor,Business Process Analytics,"['Maandag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag']"
+Rosalie,Segerszoen,Associate,Data Science,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag']"
+Jonathan,Verbeek,Bachelor,Data Visualisation,"['Dinsdag', 'Woensdag', 'Vrijdag']"
+Kate,Demmendaal,Associate,Design Science Research,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Roos,Schiffer,Associate,Business Process Analytics,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Sil,Zaal,Associate,Business Change and Innovation,"['Woensdag', 'Donderdag']"
+Felix,Olykan,Associate,Business Change and Innovation,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Puk,ter Waarbeek,Associate,Business Process Analytics,"['Dinsdag', 'Woensdag', 'Donderdag', 'Zondag']"
+Jennifer,van de Greef,Bachelor,Business Process Analytics,"['Maandag', 'Woensdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Collin,Huisman,Associate,Design Science Research,"['Zaterdag', 'Zondag']"
+Elif,van Berkel,Associate,Creative Digital Innovation,"['Dinsdag', 'Woensdag', 'Vrijdag', 'Zondag']"
+Vigo,Dubois,Associate,Data Visualisation,"['Dinsdag', 'Zaterdag']"
+Tristan,Kruns,Associate,Business Process Analytics,['Vrijdag']
+Isabelle,van de Elzas,Bachelor,Design Science Research,['Maandag']
+Dean,Holthuis,Associate,Business Change and Innovation,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zondag']"
+Kyra,Broeckx,Associate,Data Visualisation,"['Maandag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Lois,Remmers,Associate,Design Science Research,"['Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag']"
+Arie,Charon,Bachelor,Business Process Analytics,"['Dinsdag', 'Woensdag', 'Vrijdag', 'Zaterdag']"
+Eva,Simonis,Bachelor,Software Architecture,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Zaterdag', 'Zondag']"
+Megan,Kleijse,Bachelor,Artificial Intelligence,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Aimée,Dachgelt,Associate,Data Visualisation,"['Maandag', 'Vrijdag', 'Zaterdag']"
+Ravi,van Bernicia,Associate,Ethical Hacking,"['Maandag', 'Vrijdag', 'Zaterdag']"
+Lieve,Mudden,Associate,Design Science Research,['Donderdag']
+Linn,Mudden,Bachelor,Data Science,['Zaterdag']
+Seth,Groenestein,Associate,Business Process Analytics,['Vrijdag']
+Maja,Fortuyn,Bachelor,Design Science Research,"['Vrijdag', 'Zondag']"
+Ravi,Cosman,Bachelor,Business Change and Innovation,"['Dinsdag', 'Woensdag', 'Donderdag']"
+Roan,Passchiers,Associate,Business Change and Innovation,['Zaterdag']
+Seth,Molegraaf,Associate,Business Change and Innovation,"['Donderdag', 'Vrijdag', 'Zaterdag']"
+Esther,Scholten,Associate,Data Visualisation,['Dinsdag']
+Karlijn,de Werd,Associate,Software Architecture,"['Maandag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zondag']"
+Emily,van der Stael de Jonge,Bachelor,Ethical Hacking,['Donderdag']
+Tessa,Molen,Associate,Creative Digital Innovation,"['Woensdag', 'Vrijdag', 'Zondag']"
+Emir,Jorrisen,Bachelor,Artificial Intelligence,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Naud,Kleijse,Associate,Software Architecture,"['Maandag', 'Dinsdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Mason,van der Horst,Associate,Data Science,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Joëlle,Sanders,Bachelor,Business Change and Innovation,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Yasmin,van 't Houteveen,Associate,Data Visualisation,['Zaterdag']
+Joost,Rutten,Bachelor,Artificial Intelligence,"['Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Jip,van Wessex,Associate,Data Visualisation,"['Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag']"
+Lorenzo,de Bont,Bachelor,Data Science,"['Maandag', 'Woensdag', 'Donderdag', 'Zaterdag', 'Zondag']"
+Isis,Verbeek,Associate,Ethical Hacking,"['Maandag', 'Dinsdag', 'Woensdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Timo,Verbeek,Bachelor,Software Architecture,"['Maandag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag']"
+Adriana,Pieters van der Maes,Associate,Ethical Hacking,['Maandag']
+Aylin,Galijn,Bachelor,Creative Digital Innovation,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Jesper,van Velzen,Associate,Business Change and Innovation,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Zaterdag', 'Zondag']"
+Mart,Kuijpers,Bachelor,Ethical Hacking,"['Dinsdag', 'Vrijdag']"
+Sep,Molen,Associate,Data Science,['Maandag']
+Floris,ter Waarbeek,Bachelor,Software Architecture,['Donderdag']
+Leah,van 't Riet,Bachelor,Ethical Hacking,['Maandag']
+Abel,van Metz,Associate,Design Science Research,"['Maandag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Thijmen,Saxo,Associate,Artificial Intelligence,['Maandag']
+Jacob,van den Henst,Bachelor,Data Science,"['Maandag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Damian,Gnodde,Bachelor,Ethical Hacking,"['Maandag', 'Dinsdag', 'Woensdag', 'Vrijdag', 'Zondag']"
+Elizabeth,van Kuijc,Bachelor,Ethical Hacking,"['Maandag', 'Woensdag', 'Vrijdag', 'Zondag']"
+Morris,Galenzone,Associate,Data Science,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Floor,Merkx,Bachelor,Artificial Intelligence,"['Maandag', 'Vrijdag', 'Zondag']"
+Fay,Shupe,Bachelor,Ethical Hacking,['Woensdag']
+Marijn,Ehlert,Associate,Ethical Hacking,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zondag']"
+Kyano,de Bruin,Bachelor,Software Architecture,"['Maandag', 'Woensdag']"
+Mohamed,van Luxemburg,Associate,Business Change and Innovation,"['Maandag', 'Dinsdag']"
+Milou,Vertoor,Bachelor,Data Science,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag']"

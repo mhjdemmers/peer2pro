@@ -1,101 +1,101 @@
-Voornaam,Achternaam,Opleidingsniveau,Onderwerpen,Max_Studenten
-Xavi,van Wickerode,Master,"['Ethical Hacking', 'Data Visualisation', 'Software Architecture', 'Business Process Analytics']",5
-Linde,Schotte,Bachelor,"['Software Architecture', 'Artificial Intelligence', 'Business Process Analytics', 'Business Change and Innovation']",3
-Joëlle,Bresé,Bachelor,"['Creative Digital Innovation', 'Data Science', 'Artificial Intelligence', 'Ethical Hacking']",2
-Aaliyah,van Beaumont,Master,"['Business Change and Innovation', 'Artificial Intelligence', 'Data Science', 'Ethical Hacking']",4
-Willem,Mudden,Bachelor,"['Software Architecture', 'Artificial Intelligence', 'Business Process Analytics', 'Design Science Research']",1
-Valentijn,Scharroo,Master,"['Ethical Hacking', 'Artificial Intelligence']",5
-Nout,Brumleve,Master,"['Data Visualisation', 'Business Change and Innovation', 'Creative Digital Innovation', 'Business Process Analytics']",1
-Ryan,van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",4
-Luke,Mosley,Bachelor,"['Data Science', 'Artificial Intelligence', 'Design Science Research']",5
-Dana,van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",4
-Charlotte,Pieters,Bachelor,"['Data Science', 'Design Science Research', 'Data Visualisation', 'Ethical Hacking']",5
-Pippa,Koret,PhD,"['Software Architecture', 'Data Science']",1
-Nick,van der Meer,Master,"['Business Change and Innovation', 'Data Science']",2
-Amber,van der Avoirt,Bachelor,"['Software Architecture', 'Business Process Analytics', 'Creative Digital Innovation']",4
-Louise,Horrocks,Bachelor,"['Software Architecture', 'Business Change and Innovation', 'Data Visualisation', 'Ethical Hacking']",4
-Thijs,van Waas,PhD,"['Software Architecture', 'Data Science', 'Business Change and Innovation']",4
-Lucy,Hulskes,Bachelor,"['Design Science Research', 'Data Visualisation', 'Software Architecture', 'Business Change and Innovation']",4
-Helena,Pieters,PhD,"['Artificial Intelligence', 'Creative Digital Innovation']",5
-Jasmijn,van Dongen,PhD,"['Design Science Research', 'Creative Digital Innovation', 'Business Process Analytics']",1
-Mick,Verhoeven,Master,"['Ethical Hacking', 'Creative Digital Innovation']",2
-Amir,Cammel,PhD,"['Ethical Hacking', 'Software Architecture']",2
-Anne,Köster,Master,"['Business Process Analytics', 'Design Science Research', 'Ethical Hacking']",4
-Olivier,Sarneel,PhD,"['Data Visualisation', 'Software Architecture']",3
-Chris,van Landen,PhD,"['Data Visualisation', 'Ethical Hacking']",3
-Eliza,Janse,Master,"['Software Architecture', 'Ethical Hacking', 'Business Process Analytics']",3
-Hidde,Rehorst,Master,"['Software Architecture', 'Data Science', 'Business Process Analytics']",3
-Amélie,Kort,Master,"['Artificial Intelligence', 'Software Architecture', 'Business Process Analytics', 'Business Change and Innovation']",3
-Kai,Opmans,Bachelor,"['Data Visualisation', 'Creative Digital Innovation']",1
-Stef,van Beieren,Bachelor,"['Creative Digital Innovation', 'Business Change and Innovation']",1
-Stijn,Matthews,PhD,"['Data Science', 'Business Process Analytics']",1
-Gijs,van Kuijc,Master,"['Creative Digital Innovation', 'Software Architecture', 'Artificial Intelligence', 'Data Visualisation']",1
-Veerle,Aertsz,Bachelor,"['Data Visualisation', 'Data Science', 'Business Change and Innovation']",1
-Maud,Garret,PhD,"['Software Architecture', 'Data Visualisation']",1
-Amelia,van den Hoek,Master,"['Business Process Analytics', 'Artificial Intelligence', 'Software Architecture']",3
-Amelia,van der Strigt,Bachelor,"['Creative Digital Innovation', 'Business Change and Innovation', 'Software Architecture', 'Artificial Intelligence']",1
-Nora,Köster,Master,"['Software Architecture', 'Creative Digital Innovation']",2
-Maryam,van der Veen,PhD,"['Data Science', 'Business Change and Innovation', 'Ethical Hacking']",5
-Bart,van Haspengouw,Master,"['Artificial Intelligence', 'Ethical Hacking', 'Software Architecture', 'Creative Digital Innovation']",1
-Matthijs,Verbeek,PhD,"['Ethical Hacking', 'Artificial Intelligence']",2
-Noëlle,Jorlink,Master,"['Data Science', 'Creative Digital Innovation']",5
-Aya,Horrocks,Bachelor,"['Artificial Intelligence', 'Ethical Hacking']",3
-Ceylin,Beourgeois,Bachelor,"['Ethical Hacking', 'Artificial Intelligence', 'Software Architecture', 'Design Science Research']",4
-Jill,van de Velden,PhD,"['Software Architecture', 'Business Process Analytics', 'Creative Digital Innovation']",4
-Hailey,Coenen,PhD,"['Software Architecture', 'Data Visualisation', 'Creative Digital Innovation', 'Business Change and Innovation']",4
-Lize,van der Schuijt,Bachelor,"['Data Science', 'Software Architecture', 'Design Science Research']",5
-Chloé,van Oostendorp,PhD,"['Business Change and Innovation', 'Artificial Intelligence', 'Design Science Research']",5
-Loes,Ramaker,Bachelor,"['Business Process Analytics', 'Creative Digital Innovation', 'Ethical Hacking']",4
-Renske,Jonker,Bachelor,"['Creative Digital Innovation', 'Data Visualisation', 'Data Science']",3
-Lois,van Baalen,Bachelor,"['Business Process Analytics', 'Software Architecture', 'Business Change and Innovation']",2
-Jayda,Mulders,Bachelor,"['Ethical Hacking', 'Design Science Research', 'Data Visualisation', 'Data Science']",4
-Dewi,Langevoort,PhD,"['Data Visualisation', 'Data Science']",3
-Maarten,Walsteijn,Master,"['Software Architecture', 'Business Process Analytics']",2
-Jason,Driessen,Bachelor,"['Design Science Research', 'Software Architecture', 'Ethical Hacking']",4
-Alicia,de Vries,Master,"['Design Science Research', 'Business Change and Innovation']",5
-Mats,de Vroege,Master,"['Ethical Hacking', 'Business Change and Innovation']",4
-Jens,Lieshout,Master,"['Business Change and Innovation', 'Ethical Hacking']",3
-Vigo,van 't Wel,Bachelor,"['Artificial Intelligence', 'Software Architecture']",4
-Noah,Niermann,Master,"['Design Science Research', 'Creative Digital Innovation', 'Business Change and Innovation']",4
-Marijn,Bertho,PhD,"['Ethical Hacking', 'Design Science Research', 'Data Visualisation', 'Business Process Analytics']",5
-Abel,de Gratie,PhD,"['Artificial Intelligence', 'Software Architecture']",1
-Gijs,Krabbe,PhD,"['Artificial Intelligence', 'Design Science Research', 'Creative Digital Innovation', 'Ethical Hacking']",4
-Lot,Bave,Master,"['Data Visualisation', 'Business Process Analytics', 'Software Architecture', 'Artificial Intelligence']",3
-Senna,van den Eerenbeemt,Master,"['Business Process Analytics', 'Artificial Intelligence', 'Design Science Research']",2
-Jip,Heribert van Laon,Master,"['Creative Digital Innovation', 'Artificial Intelligence']",5
-Isabel,van Liendert,Master,"['Creative Digital Innovation', 'Business Change and Innovation', 'Data Science']",1
-Stella,Wolfswinkel,Master,"['Ethical Hacking', 'Software Architecture', 'Data Science']",1
-Kick,van Limburg,Bachelor,"['Business Change and Innovation', 'Data Visualisation']",5
-Benjamin,Versluijs,Master,"['Business Change and Innovation', 'Data Science', 'Data Visualisation']",5
-Beau,van Spreuwel,Master,"['Data Visualisation', 'Software Architecture']",2
-Luka,Sanders,PhD,"['Business Process Analytics', 'Business Change and Innovation', 'Data Science']",3
-Nikki,van de Wiel,PhD,"['Data Science', 'Creative Digital Innovation', 'Business Process Analytics', 'Design Science Research']",3
-Isa,Maas,Master,"['Creative Digital Innovation', 'Design Science Research', 'Business Change and Innovation']",4
-Maxim,"West-Francië, van",Bachelor,"['Ethical Hacking', 'Software Architecture']",4
-Hugo,Stoffel,PhD,"['Data Visualisation', 'Artificial Intelligence', 'Data Science', 'Creative Digital Innovation']",3
-Vince,Geertsen,PhD,"['Artificial Intelligence', 'Software Architecture', 'Design Science Research']",5
-Mick,Verschut,Bachelor,"['Creative Digital Innovation', 'Data Visualisation', 'Business Process Analytics', 'Design Science Research']",3
-Seth,de Vos,Master,"['Business Change and Innovation', 'Creative Digital Innovation']",1
-Jake,Adelaar,Master,"['Design Science Research', 'Data Visualisation']",5
-Roos,van Ginkel,Master,"['Data Science', 'Business Process Analytics', 'Software Architecture']",4
-Tobias,Gerritsen,Bachelor,"['Design Science Research', 'Business Change and Innovation', 'Artificial Intelligence']",1
-Amélie,Garret,PhD,"['Artificial Intelligence', 'Creative Digital Innovation']",1
-Chloë,van der Klein,Master,"['Creative Digital Innovation', 'Artificial Intelligence']",4
-Sjoerd,Carnotte,Bachelor,"['Data Science', 'Data Visualisation', 'Creative Digital Innovation', 'Business Change and Innovation']",4
-Elif,Steinmeiern,Master,"['Business Process Analytics', 'Software Architecture', 'Ethical Hacking']",3
-Niek,Pons,Master,"['Data Science', 'Design Science Research', 'Business Process Analytics', 'Creative Digital Innovation']",2
-Linde,Hollander,PhD,"['Business Process Analytics', 'Business Change and Innovation']",1
-Kevin,Osterhoudt,Master,"['Creative Digital Innovation', 'Design Science Research', 'Business Process Analytics', 'Business Change and Innovation']",2
-Benjamin,van der Flaas,PhD,"['Artificial Intelligence', 'Creative Digital Innovation', 'Data Science']",3
-Luna,le Gulcher,Master,"['Design Science Research', 'Ethical Hacking']",3
-Quinty,van Enschot,PhD,"['Creative Digital Innovation', 'Software Architecture', 'Artificial Intelligence']",3
-Tyler,Tamsma,PhD,"['Data Visualisation', 'Software Architecture']",3
-Adriana,Schelvis,Master,"['Ethical Hacking', 'Creative Digital Innovation', 'Artificial Intelligence', 'Software Architecture']",1
-Felix,van der Pol,Bachelor,"['Ethical Hacking', 'Software Architecture']",4
-Livia,van Luyssel,Bachelor,"['Data Science', 'Design Science Research', 'Software Architecture', 'Artificial Intelligence']",5
-Jill,Jans,Master,"['Software Architecture', 'Ethical Hacking', 'Creative Digital Innovation', 'Data Visualisation']",2
-Ivan,den Teuling,Master,"['Creative Digital Innovation', 'Business Process Analytics', 'Data Visualisation', 'Data Science']",4
-Loïs,Huijbrechts,Master,"['Creative Digital Innovation', 'Ethical Hacking', 'Data Visualisation', 'Data Science']",5
-Myrthe,Rijks,PhD,"['Data Science', 'Artificial Intelligence', 'Software Architecture', 'Data Visualisation']",4
-Yinthe,van Dagsburg,Master,"['Ethical Hacking', 'Artificial Intelligence']",2
-Amin,de Vrome,Bachelor,"['Ethical Hacking', 'Data Science', 'Creative Digital Innovation', 'Business Process Analytics']",1
+Voornaam,Achternaam,Opleidingsniveau,Onderwerpen,Max_Studenten,Beschikbaarheid
+Xavi,van Wickerode,Master,"['Ethical Hacking', 'Data Visualisation', 'Software Architecture', 'Business Process Analytics']",5,"['Maandag', 'Woensdag', 'Donderdag', 'Zondag']"
+Linde,Schotte,Bachelor,"['Software Architecture', 'Artificial Intelligence', 'Business Process Analytics', 'Business Change and Innovation']",3,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Joëlle,Bresé,Bachelor,"['Creative Digital Innovation', 'Data Science', 'Artificial Intelligence', 'Ethical Hacking']",2,"['Dinsdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Aaliyah,van Beaumont,Master,"['Business Change and Innovation', 'Artificial Intelligence', 'Data Science', 'Ethical Hacking']",4,"['Vrijdag', 'Zaterdag']"
+Willem,Mudden,Bachelor,"['Software Architecture', 'Artificial Intelligence', 'Business Process Analytics', 'Design Science Research']",1,"['Maandag', 'Dinsdag', 'Woensdag', 'Zaterdag', 'Zondag']"
+Valentijn,Scharroo,Master,"['Ethical Hacking', 'Artificial Intelligence']",5,"['Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zondag']"
+Nout,Brumleve,Master,"['Data Visualisation', 'Business Change and Innovation', 'Creative Digital Innovation', 'Business Process Analytics']",1,"['Dinsdag', 'Donderdag']"
+Ryan,van Arkel,PhD,"['Creative Digital Innovation', 'Data Visualisation', 'Design Science Research']",4,"['Maandag', 'Dinsdag', 'Donderdag', 'Vrijdag']"
+Luke,Mosley,Bachelor,"['Data Science', 'Artificial Intelligence', 'Design Science Research']",5,"['Maandag', 'Dinsdag', 'Donderdag', 'Zondag']"
+Dana,van de Pol,PhD,"['Ethical Hacking', 'Business Change and Innovation']",4,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Zaterdag', 'Zondag']"
+Charlotte,Pieters,Bachelor,"['Data Science', 'Design Science Research', 'Data Visualisation', 'Ethical Hacking']",5,"['Maandag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Pippa,Koret,PhD,"['Software Architecture', 'Data Science']",1,"['Maandag', 'Dinsdag', 'Woensdag', 'Zondag']"
+Nick,van der Meer,Master,"['Business Change and Innovation', 'Data Science']",2,"['Maandag', 'Dinsdag', 'Donderdag', 'Zaterdag', 'Zondag']"
+Amber,van der Avoirt,Bachelor,"['Software Architecture', 'Business Process Analytics', 'Creative Digital Innovation']",4,"['Maandag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Louise,Horrocks,Bachelor,"['Software Architecture', 'Business Change and Innovation', 'Data Visualisation', 'Ethical Hacking']",4,"['Maandag', 'Woensdag', 'Donderdag', 'Zaterdag', 'Zondag']"
+Thijs,van Waas,PhD,"['Software Architecture', 'Data Science', 'Business Change and Innovation']",4,['Zaterdag']
+Lucy,Hulskes,Bachelor,"['Design Science Research', 'Data Visualisation', 'Software Architecture', 'Business Change and Innovation']",4,"['Woensdag', 'Donderdag', 'Vrijdag']"
+Helena,Pieters,PhD,"['Artificial Intelligence', 'Creative Digital Innovation']",5,"['Maandag', 'Donderdag', 'Vrijdag', 'Zaterdag']"
+Jasmijn,van Dongen,PhD,"['Design Science Research', 'Creative Digital Innovation', 'Business Process Analytics']",1,['Maandag']
+Mick,Verhoeven,Master,"['Ethical Hacking', 'Creative Digital Innovation']",2,['Zondag']
+Amir,Cammel,PhD,"['Ethical Hacking', 'Software Architecture']",2,['Zondag']
+Anne,Köster,Master,"['Business Process Analytics', 'Design Science Research', 'Ethical Hacking']",4,['Zondag']
+Olivier,Sarneel,PhD,"['Data Visualisation', 'Software Architecture']",3,"['Maandag', 'Dinsdag', 'Woensdag', 'Zaterdag', 'Zondag']"
+Chris,van Landen,PhD,"['Data Visualisation', 'Ethical Hacking']",3,"['Woensdag', 'Donderdag', 'Zondag']"
+Eliza,Janse,Master,"['Software Architecture', 'Ethical Hacking', 'Business Process Analytics']",3,"['Dinsdag', 'Zaterdag', 'Zondag']"
+Hidde,Rehorst,Master,"['Software Architecture', 'Data Science', 'Business Process Analytics']",3,"['Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag']"
+Amélie,Kort,Master,"['Artificial Intelligence', 'Software Architecture', 'Business Process Analytics', 'Business Change and Innovation']",3,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Zaterdag', 'Zondag']"
+Kai,Opmans,Bachelor,"['Data Visualisation', 'Creative Digital Innovation']",1,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Stef,van Beieren,Bachelor,"['Creative Digital Innovation', 'Business Change and Innovation']",1,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zondag']"
+Stijn,Matthews,PhD,"['Data Science', 'Business Process Analytics']",1,"['Maandag', 'Dinsdag', 'Vrijdag', 'Zondag']"
+Gijs,van Kuijc,Master,"['Creative Digital Innovation', 'Software Architecture', 'Artificial Intelligence', 'Data Visualisation']",1,"['Woensdag', 'Donderdag', 'Zaterdag', 'Zondag']"
+Veerle,Aertsz,Bachelor,"['Data Visualisation', 'Data Science', 'Business Change and Innovation']",1,"['Maandag', 'Woensdag', 'Zondag']"
+Maud,Garret,PhD,"['Software Architecture', 'Data Visualisation']",1,"['Maandag', 'Woensdag', 'Donderdag', 'Vrijdag']"
+Amelia,van den Hoek,Master,"['Business Process Analytics', 'Artificial Intelligence', 'Software Architecture']",3,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zondag']"
+Amelia,van der Strigt,Bachelor,"['Creative Digital Innovation', 'Business Change and Innovation', 'Software Architecture', 'Artificial Intelligence']",1,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Nora,Köster,Master,"['Software Architecture', 'Creative Digital Innovation']",2,"['Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Maryam,van der Veen,PhD,"['Data Science', 'Business Change and Innovation', 'Ethical Hacking']",5,"['Maandag', 'Dinsdag', 'Zaterdag']"
+Bart,van Haspengouw,Master,"['Artificial Intelligence', 'Ethical Hacking', 'Software Architecture', 'Creative Digital Innovation']",1,"['Woensdag', 'Donderdag', 'Zaterdag', 'Zondag']"
+Matthijs,Verbeek,PhD,"['Ethical Hacking', 'Artificial Intelligence']",2,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zondag']"
+Noëlle,Jorlink,Master,"['Data Science', 'Creative Digital Innovation']",5,"['Maandag', 'Dinsdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Aya,Horrocks,Bachelor,"['Artificial Intelligence', 'Ethical Hacking']",3,"['Maandag', 'Woensdag', 'Donderdag', 'Zaterdag', 'Zondag']"
+Ceylin,Beourgeois,Bachelor,"['Ethical Hacking', 'Artificial Intelligence', 'Software Architecture', 'Design Science Research']",4,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zondag']"
+Jill,van de Velden,PhD,"['Software Architecture', 'Business Process Analytics', 'Creative Digital Innovation']",4,"['Dinsdag', 'Donderdag', 'Vrijdag']"
+Hailey,Coenen,PhD,"['Software Architecture', 'Data Visualisation', 'Creative Digital Innovation', 'Business Change and Innovation']",4,"['Dinsdag', 'Zondag']"
+Lize,van der Schuijt,Bachelor,"['Data Science', 'Software Architecture', 'Design Science Research']",5,"['Maandag', 'Dinsdag', 'Donderdag', 'Zaterdag', 'Zondag']"
+Chloé,van Oostendorp,PhD,"['Business Change and Innovation', 'Artificial Intelligence', 'Design Science Research']",5,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Zaterdag', 'Zondag']"
+Loes,Ramaker,Bachelor,"['Business Process Analytics', 'Creative Digital Innovation', 'Ethical Hacking']",4,['Woensdag']
+Renske,Jonker,Bachelor,"['Creative Digital Innovation', 'Data Visualisation', 'Data Science']",3,"['Maandag', 'Woensdag']"
+Lois,van Baalen,Bachelor,"['Business Process Analytics', 'Software Architecture', 'Business Change and Innovation']",2,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Jayda,Mulders,Bachelor,"['Ethical Hacking', 'Design Science Research', 'Data Visualisation', 'Data Science']",4,"['Dinsdag', 'Woensdag', 'Zondag']"
+Dewi,Langevoort,PhD,"['Data Visualisation', 'Data Science']",3,"['Maandag', 'Dinsdag', 'Woensdag', 'Vrijdag', 'Zaterdag']"
+Maarten,Walsteijn,Master,"['Software Architecture', 'Business Process Analytics']",2,"['Maandag', 'Dinsdag', 'Vrijdag', 'Zaterdag']"
+Jason,Driessen,Bachelor,"['Design Science Research', 'Software Architecture', 'Ethical Hacking']",4,"['Maandag', 'Dinsdag', 'Vrijdag', 'Zaterdag']"
+Alicia,de Vries,Master,"['Design Science Research', 'Business Change and Innovation']",5,"['Woensdag', 'Donderdag']"
+Mats,de Vroege,Master,"['Ethical Hacking', 'Business Change and Innovation']",4,"['Dinsdag', 'Zaterdag', 'Zondag']"
+Jens,Lieshout,Master,"['Business Change and Innovation', 'Ethical Hacking']",3,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Vigo,van 't Wel,Bachelor,"['Artificial Intelligence', 'Software Architecture']",4,['Zaterdag']
+Noah,Niermann,Master,"['Design Science Research', 'Creative Digital Innovation', 'Business Change and Innovation']",4,"['Dinsdag', 'Vrijdag', 'Zaterdag']"
+Marijn,Bertho,PhD,"['Ethical Hacking', 'Design Science Research', 'Data Visualisation', 'Business Process Analytics']",5,"['Maandag', 'Woensdag']"
+Abel,de Gratie,PhD,"['Artificial Intelligence', 'Software Architecture']",1,"['Woensdag', 'Vrijdag', 'Zaterdag']"
+Gijs,Krabbe,PhD,"['Artificial Intelligence', 'Design Science Research', 'Creative Digital Innovation', 'Ethical Hacking']",4,['Vrijdag']
+Lot,Bave,Master,"['Data Visualisation', 'Business Process Analytics', 'Software Architecture', 'Artificial Intelligence']",3,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Senna,van den Eerenbeemt,Master,"['Business Process Analytics', 'Artificial Intelligence', 'Design Science Research']",2,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Zaterdag', 'Zondag']"
+Jip,Heribert van Laon,Master,"['Creative Digital Innovation', 'Artificial Intelligence']",5,"['Maandag', 'Woensdag', 'Donderdag', 'Vrijdag']"
+Isabel,van Liendert,Master,"['Creative Digital Innovation', 'Business Change and Innovation', 'Data Science']",1,['Zondag']
+Stella,Wolfswinkel,Master,"['Ethical Hacking', 'Software Architecture', 'Data Science']",1,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Kick,van Limburg,Bachelor,"['Business Change and Innovation', 'Data Visualisation']",5,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Zaterdag', 'Zondag']"
+Benjamin,Versluijs,Master,"['Business Change and Innovation', 'Data Science', 'Data Visualisation']",5,"['Maandag', 'Woensdag', 'Donderdag']"
+Beau,van Spreuwel,Master,"['Data Visualisation', 'Software Architecture']",2,"['Maandag', 'Dinsdag', 'Woensdag', 'Zaterdag']"
+Luka,Sanders,PhD,"['Business Process Analytics', 'Business Change and Innovation', 'Data Science']",3,"['Woensdag', 'Zondag']"
+Nikki,van de Wiel,PhD,"['Data Science', 'Creative Digital Innovation', 'Business Process Analytics', 'Design Science Research']",3,"['Dinsdag', 'Donderdag', 'Vrijdag', 'Zondag']"
+Isa,Maas,Master,"['Creative Digital Innovation', 'Design Science Research', 'Business Change and Innovation']",4,"['Maandag', 'Zondag']"
+Maxim,"West-Francië, van",Bachelor,"['Ethical Hacking', 'Software Architecture']",4,"['Maandag', 'Woensdag', 'Zondag']"
+Hugo,Stoffel,PhD,"['Data Visualisation', 'Artificial Intelligence', 'Data Science', 'Creative Digital Innovation']",3,['Dinsdag']
+Vince,Geertsen,PhD,"['Artificial Intelligence', 'Software Architecture', 'Design Science Research']",5,['Zaterdag']
+Mick,Verschut,Bachelor,"['Creative Digital Innovation', 'Data Visualisation', 'Business Process Analytics', 'Design Science Research']",3,"['Maandag', 'Dinsdag', 'Zondag']"
+Seth,de Vos,Master,"['Business Change and Innovation', 'Creative Digital Innovation']",1,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag']"
+Jake,Adelaar,Master,"['Design Science Research', 'Data Visualisation']",5,"['Maandag', 'Dinsdag', 'Donderdag', 'Vrijdag']"
+Roos,van Ginkel,Master,"['Data Science', 'Business Process Analytics', 'Software Architecture']",4,"['Donderdag', 'Zaterdag']"
+Tobias,Gerritsen,Bachelor,"['Design Science Research', 'Business Change and Innovation', 'Artificial Intelligence']",1,"['Maandag', 'Dinsdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Amélie,Garret,PhD,"['Artificial Intelligence', 'Creative Digital Innovation']",1,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Chloë,van der Klein,Master,"['Creative Digital Innovation', 'Artificial Intelligence']",4,"['Dinsdag', 'Donderdag', 'Zaterdag', 'Zondag']"
+Sjoerd,Carnotte,Bachelor,"['Data Science', 'Data Visualisation', 'Creative Digital Innovation', 'Business Change and Innovation']",4,"['Vrijdag', 'Zondag']"
+Elif,Steinmeiern,Master,"['Business Process Analytics', 'Software Architecture', 'Ethical Hacking']",3,['Vrijdag']
+Niek,Pons,Master,"['Data Science', 'Design Science Research', 'Business Process Analytics', 'Creative Digital Innovation']",2,"['Maandag', 'Vrijdag']"
+Linde,Hollander,PhD,"['Business Process Analytics', 'Business Change and Innovation']",1,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Kevin,Osterhoudt,Master,"['Creative Digital Innovation', 'Design Science Research', 'Business Process Analytics', 'Business Change and Innovation']",2,"['Maandag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Benjamin,van der Flaas,PhD,"['Artificial Intelligence', 'Creative Digital Innovation', 'Data Science']",3,"['Donderdag', 'Vrijdag', 'Zaterdag']"
+Luna,le Gulcher,Master,"['Design Science Research', 'Ethical Hacking']",3,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Quinty,van Enschot,PhD,"['Creative Digital Innovation', 'Software Architecture', 'Artificial Intelligence']",3,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Tyler,Tamsma,PhD,"['Data Visualisation', 'Software Architecture']",3,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Zaterdag', 'Zondag']"
+Adriana,Schelvis,Master,"['Ethical Hacking', 'Creative Digital Innovation', 'Artificial Intelligence', 'Software Architecture']",1,"['Dinsdag', 'Woensdag', 'Vrijdag']"
+Felix,van der Pol,Bachelor,"['Ethical Hacking', 'Software Architecture']",4,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Livia,van Luyssel,Bachelor,"['Data Science', 'Design Science Research', 'Software Architecture', 'Artificial Intelligence']",5,['Donderdag']
+Jill,Jans,Master,"['Software Architecture', 'Ethical Hacking', 'Creative Digital Innovation', 'Data Visualisation']",2,"['Dinsdag', 'Donderdag', 'Vrijdag', 'Zondag']"
+Ivan,den Teuling,Master,"['Creative Digital Innovation', 'Business Process Analytics', 'Data Visualisation', 'Data Science']",4,"['Maandag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag']"
+Loïs,Huijbrechts,Master,"['Creative Digital Innovation', 'Ethical Hacking', 'Data Visualisation', 'Data Science']",5,"['Dinsdag', 'Woensdag', 'Vrijdag']"
+Myrthe,Rijks,PhD,"['Data Science', 'Artificial Intelligence', 'Software Architecture', 'Data Visualisation']",4,['Zondag']
+Yinthe,van Dagsburg,Master,"['Ethical Hacking', 'Artificial Intelligence']",2,"['Maandag', 'Dinsdag', 'Donderdag']"
+Amin,de Vrome,Bachelor,"['Ethical Hacking', 'Data Science', 'Creative Digital Innovation', 'Business Process Analytics']",1,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Zondag']"
