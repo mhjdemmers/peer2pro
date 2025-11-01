@@ -1,0 +1,25 @@
+Voornaam,Achternaam,Opleidingsniveau,Onderwerp,Beschikbaarheid
+Micha,Claesdr,Bachelor,Creative Digital Innovation,"['Maandag', 'Woensdag', 'Donderdag', 'Zaterdag']"
+David,Bronder,Associate,Design Science Research,['Zaterdag']
+Tijs,Strijker,Bachelor,Artificial Intelligence,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag']"
+Niek,Tillmanno,Associate,Software Architecture,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Aiden,Kathagen,Bachelor,Data Science,['Maandag']
+Inaya,Verkade,Bachelor,Business Change and Innovation,"['Maandag', 'Woensdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Tim,Winters,Bachelor,Data Visualisation,"['Dinsdag', 'Woensdag', 'Vrijdag']"
+Emma,van Kuijc,Associate,Ethical Hacking,"['Vrijdag', 'Zaterdag', 'Zondag']"
+Kyara,van Lucel,Associate,Data Visualisation,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Nick,Kolster,Bachelor,Design Science Research,"['Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Niek,Krabbe,Associate,Data Science,['Donderdag']
+Noortje,Kuijpers,Bachelor,Business Process Analytics,"['Dinsdag', 'Woensdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Bram,Marceron,Associate,Data Visualisation,['Donderdag']
+Julia,Lommert,Bachelor,Data Visualisation,['Zaterdag']
+Fleur,Groenestein,Bachelor,Business Change and Innovation,"['Donderdag', 'Vrijdag']"
+Ayoub,van der Velden,Bachelor,Ethical Hacking,['Zaterdag']
+Joris,van Asten,Associate,Ethical Hacking,['Zondag']
+Bryan,Maas,Associate,Artificial Intelligence,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag']"
+Hamza,Karels,Bachelor,Data Science,"['Maandag', 'Dinsdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Dewi,Houdijk,Bachelor,Ethical Hacking,"['Maandag', 'Dinsdag', 'Woensdag', 'Vrijdag', 'Zondag']"
+Ivan,van Bentheim,Bachelor,Ethical Hacking,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Oscar,van de Brink,Bachelor,Ethical Hacking,['Woensdag']
+Zoë,Chrodtrud,Associate,Data Visualisation,"['Maandag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag', 'Zondag']"
+Frederique,Cadefau,Associate,Software Architecture,"['Maandag', 'Dinsdag', 'Woensdag', 'Donderdag', 'Vrijdag', 'Zaterdag']"
