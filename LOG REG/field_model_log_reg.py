@@ -4,7 +4,7 @@ from sentence_transformers import SentenceTransformer
 
 # === 1. Laden van model en encoder ===
 model = joblib.load("nlp_model_logreg_embeddings.pkl")
-label_encoder = joblib.load("label_encoder.pkl")
+label_encoder = joblib.load("label_encoder_log_reg.pkl")
 
 # === 2. Embedding model laden ===
 embed_model = SentenceTransformer('paraphrase-multilingual-mpnet-base-v2')

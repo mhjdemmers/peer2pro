@@ -6,7 +6,7 @@ from tkinter.filedialog import askopenfilename
 
 # === 1. Laden van model en encoder ===
 xgb_model = joblib.load("nlp_model_xgb_embeddings.pkl")
-label_encoder = joblib.load("label_encoder.pkl")
+label_encoder = joblib.load("label_encoder_xgb_llm.pkl")
 
 # === 2. Embedding model laden ===
 embed_model = SentenceTransformer('all-MiniLM-L6-v2')
