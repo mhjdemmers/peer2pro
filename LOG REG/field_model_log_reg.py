@@ -4,7 +4,7 @@ from sentence_transformers import SentenceTransformer
 
 # === 1. Laden van model en encoder ===
 model = joblib.load("nlp_model_logreg_embeddings.pkl")
-label_encoder = joblib.load("label_encoder.pkl")
+label_encoder = joblib.load("label_encoder_log_reg.pkl")
 
 # === 2. Embedding model laden ===
 embed_model = SentenceTransformer('paraphrase-multilingual-mpnet-base-v2')
@@ -61,7 +61,7 @@ elif mode == "2":
         df["zekerheid_%"] = (scores * 100).round(2)
 
         # Opslaan
-        output_path = "voorspellingen_output.csv"
+        output_path = "voorspellingen_output_log_reg.csv"
         df.to_csv(output_path, index=False)
         print(f"\n✅ Resultaten opgeslagen in: {output_path}")
 
