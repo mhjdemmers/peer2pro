@@ -61,7 +61,7 @@ elif mode == "2":
         df["zekerheid_%"] = (scores * 100).round(2)
 
         # Opslaan
-        output_path = "voorspellingen_output.csv"
+        output_path = "voorspellingen_output_log_reg.csv"
         df.to_csv(output_path, index=False)
         print(f"\n✅ Resultaten opgeslagen in: {output_path}")
 
