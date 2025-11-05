@@ -47,5 +47,5 @@ print(classification_report(y_test, y_pred, target_names=label_encoder.classes_)
 
 # === 7. Opslaan van model en encoder ===
 joblib.dump(xgb_model, "nlp_model_xgb_embeddings.pkl")
-joblib.dump(label_encoder, "label_encoder.pkl")
+joblib.dump(label_encoder, "label_encoder_xgb_llm.pkl")
 print("✅ Model en encoder opgeslagen voor later gebruik")
