@@ -5,9 +5,9 @@ def main() -> None:
     engine = MatchingEngine(
         students_path="./DATASETS/studenten.csv",
         mentors_type1_path="./DATASETS/mentoren.csv",
-        mentors_type2_path="./DATASETS/mentorenB.csv",
+        # mentors_type2_path="./DATASETS/mentorenB.csv",
         n_type1=3,
-        n_type2=2,
+        # n_type2=2,
         verbose=True,
     )
 

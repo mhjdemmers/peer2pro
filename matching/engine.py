@@ -14,9 +14,9 @@ class MatchingEngine:
         self,
         students_path: str,
         mentors_type1_path: str,
-        mentors_type2_path: str,
+        mentors_type2_path: Optional[str] = None,
         n_type1: int = 3,
-        n_type2: int = 2,
+        n_type2: Optional[int] = None,
         education_mapping: Optional[Dict[str, int]] = None,
         verbose: bool = True,
     ) -> None:
@@ -24,7 +24,15 @@ class MatchingEngine:
         self.mentors_type1_path = mentors_type1_path
         self.mentors_type2_path = mentors_type2_path
         self.n_type1 = n_type1
-        self.n_type2 = n_type2
+        self.n_type2 = (
+            int(n_type2)
+            if n_type2 is not None
+            else (0 if mentors_type2_path is None else 2)
+        )
+        if self.n_type2 < 0:
+            raise ValueError("n_type2 cannot be negative")
+        if self.n_type2 > 0 and not self.mentors_type2_path:
+            raise ValueError("mentors_type2_path is required when n_type2 > 0")
         self.verbose = verbose
         self.education_mapping = education_mapping or {
             "Associate": 1,
@@ -42,7 +50,11 @@ class MatchingEngine:
     def load_data(self) -> None:
         students_df = pd.read_csv(self.students_path)
         mentors_type1_df = pd.read_csv(self.mentors_type1_path)
-        mentors_type2_df = pd.read_csv(self.mentors_type2_path)
+        mentors_type2_df = (
+            pd.read_csv(self.mentors_type2_path) if self.mentors_type2_path else None
+        )
+        if self.n_type2 > 0 and mentors_type2_df is None:
+            raise ValueError("Type 2 mentors data is required when n_type2 > 0.")
 
         self._students_cache, self._student_lookup = self._build_students_cache(students_df)
         self._mentors_cache, self._mentor_lookup = self._build_mentors_cache(
@@ -192,7 +204,7 @@ class MatchingEngine:
 
         return cache, lookup
 
-    def _build_mentors_cache(self, mentors_df: pd.DataFrame, mentors2_df: pd.DataFrame):
+    def _build_mentors_cache(self, mentors_df: pd.DataFrame, mentors2_df: Optional[pd.DataFrame] = None):
         cache: List[Dict] = []
         lookup: Dict[str, Dict] = {}
 
@@ -202,11 +214,12 @@ class MatchingEngine:
             cache.append(cache_entry)
             lookup[mentor_id] = cache_entry
 
-        for idx, row in mentors2_df.iterrows():
-            mentor_id = f"m2_{idx}"
-            cache_entry = self._mentor_entry(row, mentor_id, "type2", "Type 2")
-            cache.append(cache_entry)
-            lookup[mentor_id] = cache_entry
+        if mentors2_df is not None:
+            for idx, row in mentors2_df.iterrows():
+                mentor_id = f"m2_{idx}"
+                cache_entry = self._mentor_entry(row, mentor_id, "type2", "Type 2")
+                cache.append(cache_entry)
+                lookup[mentor_id] = cache_entry
 
         return cache, lookup
 
@@ -232,6 +245,14 @@ class MatchingEngine:
 
     def _build_asp_program(self) -> str:
         facts = self._generate_asp_facts()
+        type2_block = ""
+        if self.n_type2 > 0:
+            type2_block = f"""
+:- match_day(S, Day), #count {{ M : candidate(S,M,Day), mentor_type(M,type2) }} < {self.n_type2}.
+{self.n_type2} {{ match(S, M, Day) : candidate(S,M,Day), mentor_type(M,type2) }} {self.n_type2} :- match_day(S, Day).
+
+"""
+
         return f"""
 % Facts from Python
 {facts}
@@ -256,11 +277,8 @@ candidate(S, M, Day) :-
 
 % Only allow days where student has enough candidates
 :- match_day(S, Day), #count {{ M : candidate(S,M,Day), mentor_type(M,type1) }} < {self.n_type1}.
-:- match_day(S, Day), #count {{ M : candidate(S,M,Day), mentor_type(M,type2) }} < {self.n_type2}.
-
-% Choose exact mentors per type
+{type2_block}% Choose exact mentors per type
 {self.n_type1} {{ match(S, M, Day) : candidate(S,M,Day), mentor_type(M,type1) }} {self.n_type1} :- match_day(S, Day).
-{self.n_type2} {{ match(S, M, Day) : candidate(S,M,Day), mentor_type(M,type2) }} {self.n_type2} :- match_day(S, Day).
 
 % Respect mentor capacities
 :- mentor(M), max_students(M, Max), #count {{ S, Day : match(S, M, Day) }} > Max.
