@@ -12,26 +12,33 @@ StudentMatch = Tuple[Dict[str, str], List[Dict[str, str]], List[Dict[str, str]],
 class MatchingEngine:
     def __init__(
         self,
-        students_path: str,
-        mentors_type1_path: str,
-        mentors_type2_path: str,
+        *,
+        students_df: pd.DataFrame,
+        mentors_type1_df: pd.DataFrame,
+        mentors_type2_df: Optional[pd.DataFrame] = None,
         n_type1: int = 3,
         n_type2: int = 2,
         education_mapping: Optional[Dict[str, int]] = None,
         verbose: bool = True,
     ) -> None:
-        self.students_path = students_path
-        self.mentors_type1_path = mentors_type1_path
-        self.mentors_type2_path = mentors_type2_path
-        self.n_type1 = n_type1
-        self.n_type2 = n_type2
         self.verbose = verbose
+        self._students_df = students_df.copy()
+        self._mentors_type1_df = mentors_type1_df.copy()
+        self._mentors_type2_df = mentors_type2_df.copy() if mentors_type2_df is not None else None
         self.education_mapping = education_mapping or {
             "Associate": 1,
             "Bachelor": 2,
             "Master": 3,
             "PhD": 4,
         }
+
+        self.n_type1 = n_type1
+        if self._mentors_type2_df is None and n_type2 > 0:
+            if self.verbose:
+                print("No Type 2 mentors provided; overriding n_type2 to 0.")
+            self.n_type2 = 0
+        else:
+            self.n_type2 = n_type2
 
         self._students_cache: List[Dict] = []
         self._student_lookup: Dict[str, Dict] = {}
@@ -40,9 +47,9 @@ class MatchingEngine:
         self._loaded = False
 
     def load_data(self) -> None:
-        students_df = pd.read_csv(self.students_path)
-        mentors_type1_df = pd.read_csv(self.mentors_type1_path)
-        mentors_type2_df = pd.read_csv(self.mentors_type2_path)
+        students_df = self._students_df
+        mentors_type1_df = self._mentors_type1_df
+        mentors_type2_df = self._mentors_type2_df
 
         self._students_cache, self._student_lookup = self._build_students_cache(students_df)
         self._mentors_cache, self._mentor_lookup = self._build_mentors_cache(
@@ -192,7 +199,9 @@ class MatchingEngine:
 
         return cache, lookup
 
-    def _build_mentors_cache(self, mentors_df: pd.DataFrame, mentors2_df: pd.DataFrame):
+    def _build_mentors_cache(
+        self, mentors_df: pd.DataFrame, mentors2_df: Optional[pd.DataFrame]
+    ):
         cache: List[Dict] = []
         lookup: Dict[str, Dict] = {}
 
@@ -202,11 +211,12 @@ class MatchingEngine:
             cache.append(cache_entry)
             lookup[mentor_id] = cache_entry
 
-        for idx, row in mentors2_df.iterrows():
-            mentor_id = f"m2_{idx}"
-            cache_entry = self._mentor_entry(row, mentor_id, "type2", "Type 2")
-            cache.append(cache_entry)
-            lookup[mentor_id] = cache_entry
+        if mentors2_df is not None:
+            for idx, row in mentors2_df.iterrows():
+                mentor_id = f"m2_{idx}"
+                cache_entry = self._mentor_entry(row, mentor_id, "type2", "Type 2")
+                cache.append(cache_entry)
+                lookup[mentor_id] = cache_entry
 
         return cache, lookup
 
