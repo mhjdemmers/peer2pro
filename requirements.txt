@@ -1,12 +1,13 @@
+sentence-transformers
 matplotlib
 numpy
 seaborn
 scikit-learn
-
-pytorch
+torch
 torchvision
 pandas
 clingo
-
 sentence-transformers
 xgboost
+joblib
+streamlit
