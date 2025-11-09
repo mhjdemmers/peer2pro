@@ -17,7 +17,7 @@ class MatchingEngine:
         mentors_type1_df: pd.DataFrame,
         mentors_type2_df: Optional[pd.DataFrame] = None,
         n_type1: int = 3,
-        n_type2: Optional[int] = None,
+        n_type2: int = 2,
         education_mapping: Optional[Dict[str, int]] = None,
         verbose: bool = True,
     ) -> None:
@@ -242,14 +242,6 @@ class MatchingEngine:
 
     def _build_asp_program(self) -> str:
         facts = self._generate_asp_facts()
-        type2_block = ""
-        if self.n_type2 > 0:
-            type2_block = f"""
-:- match_day(S, Day), #count {{ M : candidate(S,M,Day), mentor_type(M,type2) }} < {self.n_type2}.
-{self.n_type2} {{ match(S, M, Day) : candidate(S,M,Day), mentor_type(M,type2) }} {self.n_type2} :- match_day(S, Day).
-
-"""
-
         return f"""
 % Facts from Python
 {facts}
@@ -274,8 +266,11 @@ candidate(S, M, Day) :-
 
 % Only allow days where student has enough candidates
 :- match_day(S, Day), #count {{ M : candidate(S,M,Day), mentor_type(M,type1) }} < {self.n_type1}.
-{type2_block}% Choose exact mentors per type
+:- match_day(S, Day), #count {{ M : candidate(S,M,Day), mentor_type(M,type2) }} < {self.n_type2}.
+
+% Choose exact mentors per type
 {self.n_type1} {{ match(S, M, Day) : candidate(S,M,Day), mentor_type(M,type1) }} {self.n_type1} :- match_day(S, Day).
+{self.n_type2} {{ match(S, M, Day) : candidate(S,M,Day), mentor_type(M,type2) }} {self.n_type2} :- match_day(S, Day).
 
 % Respect mentor capacities
 :- mentor(M), max_students(M, Max), #count {{ S, Day : match(S, M, Day) }} > Max.
