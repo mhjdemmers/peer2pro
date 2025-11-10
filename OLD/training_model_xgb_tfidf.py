@@ -6,18 +6,18 @@ from sklearn.metrics import classification_report
 from sklearn.feature_extraction.text import TfidfVectorizer
 from xgboost import XGBClassifier
 
-# === 1. Dataset laden ===
+# Dataset laden 
 data = pd.read_csv("dummy_opdrachten_dataset.csv")  # Kolommen: "omschrijving", "onderwerp"
 
 X = data["omschrijving"].astype(str)
 y = data["onderwerp"]
 
-# === 2. Train-test split ===
+# Train-test split
 X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.2, random_state=42, stratify=y
 )
 
-# === 3. Pipeline met TF-IDF + XGBoost ===
+# Pipeline met TF-IDF + XGBoost 
 pipeline = Pipeline([
     ("tfidf", TfidfVectorizer(
         ngram_range=(1, 2),  # unigrams + bigrams
@@ -35,14 +35,14 @@ pipeline = Pipeline([
     ))
 ])
 
-# === 4. Trainen ===
+# Trainen 
 pipeline.fit(X_train, y_train)
 
-# === 5. Evalueren ===
+# Evalueren 
 y_pred = pipeline.predict(X_test)
 print("=== Evaluatie ===")
 print(classification_report(y_test, y_pred))
 
-# === 6. Opslaan ===
+# Opslaan
 joblib.dump(pipeline, "nlp_model_xgb_tfidf.pkl")
 print("Model opgeslagen als 'nlp_model_xgb_tfidf.pkl'")

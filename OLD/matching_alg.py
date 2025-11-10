@@ -1,12 +1,12 @@
 import pandas as pd
 
-# ---------- SETTINGS ----------
+# SETTINGS
 # Zet hier de bestandsnamen van je CSV's
 MENTOREN_FILE = "mentoren.csv"
 STUDENTEN_FILE = "studenten.csv"
 OUTPUT_FILE = "matches.csv"
 
-# ---------- DATA INLADEN ----------
+# DATA INLADEN
 mentoren_df = pd.read_csv(MENTOREN_FILE)
 studenten_df = pd.read_csv(STUDENTEN_FILE)
 
@@ -18,7 +18,7 @@ mentoren_df["Onderwerpen"] = mentoren_df["Onderwerpen"].apply(
 # Opleidingsniveaus ordenen
 level_order = {"Associate": 0, "Bachelor": 1, "Master": 2, "PhD": 3}
 
-# ---------- MATCHING FUNCTIE ----------
+# MATCHING FUNCTIE
 def find_best_mentor(student, mentoren_df):
     student_level = level_order.get(student["Opleidingsniveau"], -1)
     student_subject = student["Onderwerp"]
@@ -64,10 +64,10 @@ def find_best_mentor(student, mentoren_df):
             "Match_score": 0,
         }
 
-# ---------- MATCHES MAKEN ----------
+# MATCHES MAKEN
 matches = [find_best_mentor(student, mentoren_df) for _, student in studenten_df.iterrows()]
 matches_df = pd.DataFrame(matches)
 
-# ---------- RESULTAAT OPSLAAN ----------
+# RESULTAAT OPSLAAN
 matches_df.to_csv(OUTPUT_FILE, index=False)
-print(f"✅ Matching voltooid! Resultaat opgeslagen in {OUTPUT_FILE}")
+print(f"Matching voltooid! Resultaat opgeslagen in {OUTPUT_FILE}")

@@ -1,6 +1,6 @@
 # peer2pro
 
-Een klein project om studenten aan mentoren te koppelen met behulp van eenvoudige matchinglogica en machine learning-modellen. De repository bevat datasets, matching-code en hulpmiddelen voor het trainen van modellen.
+Een project om studenten aan mentoren te koppelen met behulp van matchinglogica en machine learning-modellen. De repository bevat datasets, matching-code en hulpmiddelen voor het trainen van modellen.
 
 ## Kort overzicht
 - Doel: studenten koppelen aan mentoren op basis van kenmerken en tekstuele omschrijvingen.
@@ -14,26 +14,18 @@ Een klein project om studenten aan mentoren te koppelen met behulp van eenvoudig
 pip install -r requirements.txt
 ```
 
-## Snelstart
-1. Controleer of de datasets in de map `DATASETS/` aanwezig zijn (er zitten voorbeeldbestanden in).
-2. Start het hoofdscript:
-
-```powershell
-python main.py
-```
-
-Opmerking: `main.py` is een eenvoudig entrypoint voor dit project. Bekijk de afzonderlijke mappen voor model-trainingsscripts en de matchinglogica.
-
 ## Belangrijke paden
 - `DATASETS/` - voorbeeld CSV-datasets (studenten, mentoren, matches, enz.)
-- `matching/` - matching-engine code (bijv. `engine.py`)
-- `LOG REG/`, `XGBOOST/` en `OLD/` - scripts voor modeltraining en experimenten
-- `notebooks/` - Jupyter-notebooks en hulpprogramma's
+- `matching/` - matching-engine code, asp clingo 
+- `LOG REG/`, `XGBOOST/` - scripts voor modeltraining en experimenten
+- `log_reg_library/` - 
 
 ## Projectstructuur (hoog niveau)
 
-- `main.py` - entrypoint / demo-runner
+- `main.py` - headless matching
+- `gui.py` - GUI matching
 - `matching/` - kernimplementatie van de matching
+- `log_reg_library/` - classificatie opdracht omschrijving
 - `LOG REG/`, `XGBOOST/` - modelcode en trainingsscripts
 - `DATASETS/` - CSV-bestanden die door scripts en notebooks worden gebruikt
 

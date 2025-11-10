@@ -1,6 +1,6 @@
 import joblib
 
-# === 1. Model laden ===
+# Model laden 
 nlp_model = joblib.load("nlp_model.pkl")
 
 print("Welkom bij de opdracht-classificatie!")
@@ -14,13 +14,13 @@ while True:
         print("Programma afgesloten.")
         break
 
-    # === 2. Voorspel ===
+    # Voorspel 
     minor = nlp_model.predict([opdracht])[0]
 
-    # === 3. Zekerheidsscore ===
+    # Zekerheidsscore 
     proba = nlp_model.predict_proba([opdracht])[0]
     max_score = max(proba)
     score_pct = round(max_score * 100, 2)
 
-    # === 4. Output ===
+    # Output
     print(f"➝ Deze opdracht hoort het meest bij de minor: {minor} (zekerheid: {score_pct}%)")
